@@ -8,7 +8,7 @@ Precision oncology and personalized medicine rely on the accurate integration an
 
 1. Data required to be pre-processed in order to be compatible with URI standards
 2. In some cases NLP tools are needed to be applied in order to annotate data and extract information from texts
-3. Beside entity recognition, further id reresentations are required to be created in order to link genomic data that are represented in different accepted standard formats. 
+3. Beside entity recognition, further id representations are required to be created in order to link genomic data that are represented in different accepted standard formats. 
 4. Manual curation by experts are needed in order to provide mapping between different concepts in data sources and concepts in the ontology.
 
 ## Resources
